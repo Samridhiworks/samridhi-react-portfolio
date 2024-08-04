@@ -499,10 +499,11 @@ footer{
  .address{
   display: grid;
   place-items: center;
+  width:100%;
  }
 
  .contact-form{
-  display: grid;
+  display: none;
   place-items: center;
  }
  #about{
