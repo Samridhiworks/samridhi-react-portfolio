@@ -111,6 +111,7 @@ nav{
 .text h1{
   font-size: 50px;
   color: #fff;
+  margin:0;
 }
 
 .text button{
