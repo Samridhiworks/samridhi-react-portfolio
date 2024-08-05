@@ -15,7 +15,7 @@ const Banner=()=>{
                 <div className="text">
                     <h6>SAMRIDHI TANDON</h6>
                     <h1>FRONTEND DEVELOPER</h1>
-        <p style={{color:"#fff",fontSize:"15px",textAlign:"center"}}>I used to design and build the visual aspects of websites and applications, focusing on user experience and interface. Created websites using  languages like HTML, CSS, JavaScript, and React JS to create responsive, interactive elements, ensuring seamless functionality across various devices and browsers while adhering to design specifications and performance standards.
+        <p style={{color:"#fff",fontSize:"15px"}}>I used to design and build the visual aspects of websites and applications, focusing on user experience and interface. Created websites using  languages like HTML, CSS, JavaScript, and React JS to create responsive, interactive elements, ensuring seamless functionality across various devices and browsers while adhering to design specifications and performance standards.
         </p>
                     <button >
                         < a href="src/Samridhi CV.pdf" download="Samridhi CV.pdf" style={{textDecoration:"none"}}>
