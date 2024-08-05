@@ -601,5 +601,9 @@ footer{
 
 }
 
+.text p{
+  display:none;
+}
+
 
 }
